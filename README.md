@@ -70,4 +70,5 @@ Stone-Paper-Scissors/
 - Improve mobile responsiveness.
 
 ## 👨‍💻 Author
+KUMAR DIVYANSH
 
